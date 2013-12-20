@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RiotAPI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="saveChkBox" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="saveSummonerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="saveRegion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NA</Value>
+    </Setting>
+    <Setting Name="saveAPI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">701861ef-5e64-4c90-af18-fced09acb770</Value>
+    </Setting>
+    <Setting Name="summonerID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
